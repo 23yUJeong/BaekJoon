@@ -1,2 +1,2 @@
 # BaekJoon
-열심히 좀 해보자
+https://solved.ac/profile/23yujeong
